@@ -1,0 +1,50 @@
+#hoverPlace:hover #overview {
+  transform: translateX(0%);
+  
+
+}
+
+.mainDiv {
+  background-image: url(./assets/main.jpeg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-bottom: 1rem;
+}
+
+.detailDiv {
+  background-image: url(./assets/DETAİL.jpeg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* height: 80vh; */
+}
+
+
+.tag.green {
+  background-color: #1b5e20;
+}
+
+.tag.yellow {
+  background-color: yellow;
+}
+
+.tag.red {
+  background-color: #7f0000;
+}
+
+.logindiv {
+  background-image: url("https://cdn.pixabay.com/photo/2022/11/14/08/37/park-7591049_1280.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.registerdiv {
+  background-image: url("https://cdn.pixabay.com/photo/2022/11/05/09/47/sea-7571473_1280.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
